@@ -5,7 +5,7 @@ metadata:
 spec:
   selector:
     app: auth
-  type: ClussterIP
+  type: ClusterIP
   ports:
     - protocol: TCP
       port: 80
